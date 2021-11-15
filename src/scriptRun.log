@@ -1,0 +1,24 @@
+nFarsites = 1
+Loading lcp file for Farsite #1: /home/qweddww123/farsite/examples/cougarCreek/input/cougarCreek.lcp
+Header.loeast = 65.000000
+Header.hieast = 31265.000000
+Header.lonorth = 217.000000
+Header.hinorth = 30217.000000
+NumVals = 8
+Name = /home/qweddww123/farsite/examples/cougarCreek/input/cougarCreek.lcp
+ReadStats()
+CopyStats(3) -> copy landscapetheme's fuel models to gridtheme
+CreateRamp()
+VarVal: 18
+landscape == 0
+CantAllocLCP == false
+Header.numnorth = 1000, Header.numeast = 1040, NumVals = 8
+NumAlloc = 16640000.000000
+SetlandscapeFile time:0.000687684
+
+Loading inputs file for Farsite #1: /home/qweddww123/farsite/examples/cougarCreek/input/cougarCreek.input
+LoadCustomFuel
+end of LoadCustomFuel
+Error opening output file
+
+Total elapsed time: 0.000798851
